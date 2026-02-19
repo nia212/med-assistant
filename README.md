@@ -6,7 +6,6 @@ An intelligent, AI-powered medical assistant designed to provide fast and reliab
 
 ---
 
-Demo app:
 https://github.com/user-attachments/assets/e482354f-f1ef-4438-a0cd-2b2c810e56e8
 
 ##  Features
