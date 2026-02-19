@@ -27,7 +27,7 @@ index_name = "medbot"
 if not pc.has_index(index_name):
     pc.create_index(
         name=index_name,
-        spec=ServerlessSpec(cloud="aws", region="us-east-1"),
+        spec=ServerlessSpec(cloud="gcp", region="us-central1"),
         dimension=384,
         metric="cosine" 
     )
