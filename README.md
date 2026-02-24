@@ -26,8 +26,8 @@ https://github.com/user-attachments/assets/e482354f-f1ef-4438-a0cd-2b2c810e56e8
 | AI Framework | LangChain              |
 | Vector Db    | Pinecone               |
 | Frontend     | HTML, CSS, Bootstrap 5 |
-| Animation    | Lottie, CSS Keyframes  |
-| AJAX         | jQuery 3.6             |
+| Animation    | Lottie                 |
+
 
 ---
 
