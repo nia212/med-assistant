@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/e482354f-f1ef-4438-a0cd-2b2c810e56e8
 |--------------|------------------------|
 | Backend      | Python, Flask          |
 | LLM          | OpenAI GPT             |
-| AI Framework | LangChain              |
+| AI Framework | LangChain, Hugging Face|
 | Vector Db    | Pinecone               |
 | Frontend     | HTML, CSS, Bootstrap 5 |
 | Animation    | Lottie                 |
